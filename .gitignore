@@ -1,0 +1,4 @@
+# Auto-generated files
+.venv
+.vscode
+__pycache__
